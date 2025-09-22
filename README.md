@@ -22,9 +22,9 @@ cd cartolinks
 ```
 
 2. **Install Dependencies**
-npm install
-# or
-yarn install
+
+``` npm install # or yarn install ```
 
 3. **Start Developer server**
-npx expo start
+
+``` npx expo start ```
